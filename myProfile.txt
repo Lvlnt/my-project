@@ -1,0 +1,1 @@
+-e "Nama: John Doe\nUmur: 25\nPekerjaan: Software Developer" 
