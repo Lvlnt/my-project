@@ -1,3 +1,15 @@
--e "Baris 1\nBaris 2" 
--e "Baris 3\nBaris 4\nBaris 5\nBaris 6\nBaris 7\nBaris 8\nBaris 9\nBaris 10" 
--e "Baris 3\nBaris 4\nBaris 5\nBaris 6\nBaris 7\nBaris 8\nBaris 9\nBaris 10\nBaris 11\nBaris 12\nBaris 13\nBaris 14\nBaris 15" 
+Baris 1
+Baris 2
+Baris 3
+Baris 4
+Baris 5
+Baris 6
+Baris 7
+Baris 8
+Baris 9
+Baris 10
+Baris 11
+Baris 12
+Baris 13
+Baris 14
+Baris 15
