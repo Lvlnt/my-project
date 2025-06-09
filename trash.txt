@@ -1,0 +1,1 @@
+-e "Baris 1\nBaris 2" 
